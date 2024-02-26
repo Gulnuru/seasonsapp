@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgb(10, 11, 11);
+  position: relative;
+}
+#div1,
+#div2,
+div,
+#div4 {
+  margin-top: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  font-weight: 700;
+}
+button {
+  width: 100px;
+  height: 30px;
+}
